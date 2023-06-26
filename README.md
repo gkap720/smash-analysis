@@ -8,4 +8,4 @@ The main questions I looked at were things that a new player of the game with ve
 ### Which stages should I pick?
 ### Are there any recent trends in character popularity?
 ## Results
-To take a look at some of the results of this preliminary analysis, you can take a look at the notebook or you can read a more detailed explanation of those results in my blog post linked [here](TODO).
+To take a look at some of the results of this preliminary analysis, you can take a look at the notebook or you can read a more detailed explanation of those results in my blog post linked [here](TODO). There is no modeling done since the main questions to look at here are mainly explanatory rather than predictive.
